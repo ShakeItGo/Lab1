@@ -1,5 +1,5 @@
 # Лабораторна 1
-*1 Створити проект у Visual Studio та зареєструватись на github.com
+1 Створити проект у Visual Studio та зареєструватись на github.com
 
 2. Створити публічний репозиторій та зайти у термінал
 
@@ -65,4 +65,4 @@ git push origin master
 
 17. Робимо зміни та зберігаємо у origin develop.
 
-18. Потім об’єднуємо гілку develop із гілкою master у master. (git merge).*
+18. Потім об’єднуємо гілку develop із гілкою master у master. (git merge).
